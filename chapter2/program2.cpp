@@ -6,4 +6,5 @@ int main() {
   x = 1023; // this assigns 1023 to x
   cout << "This program prints the value of x: ";
   cout << x; // This displays 1023
-return 0; }
+return 0; 
+}
