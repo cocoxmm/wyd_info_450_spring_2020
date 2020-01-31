@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  circumference
-//
-//  Created by Coco on 1/31/20.
-//  Copyright © 2020 Coco. All rights reserved.
-//
 
 #include <iostream>
 using namespace std;
