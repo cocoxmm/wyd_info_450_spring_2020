@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  build_functions
-//
-//  Created by Coco on 1/31/20.
-//  Copyright © 2020 Coco. All rights reserved.
-//
+
 
 #include <string>
 #include <iostream>
