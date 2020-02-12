@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  week4program
-//
-//  Created by Coco on 2/11/20.
-//  Copyright © 2020 Coco. All rights reserved.
-//
+
 
 #include <iostream>
 #include <stdio.h>
