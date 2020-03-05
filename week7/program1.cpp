@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  week7program1
-//
-//  Created by Coco on 3/3/20.
-//  Copyright © 2020 Coco. All rights reserved.
-//
-
 
 #include <iostream>
 #include <string>
