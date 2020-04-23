@@ -5,15 +5,14 @@
 #include "sorter.h"
 using namespace std;
 
-
 int main(){
     int place_holder;
     string str;
     int counter = 0;
     vector<int> all_numbers;
 
-    ifstream in("randoms.txt");
-    ofstream out("sorted.txt");
+    ifstream in("/Users/Coco/Documents/Coco/STDY/VCU/ACDMC/InfoSystems/INFO450/week12/randoms.txt");
+    ofstream out("/Users/Coco/Documents/Coco/STDY/VCU/ACDMC/InfoSystems/INFO450/week12/sorted.txt");
 
     if (!in){
         cout << "Cannot open input file." << endl;
