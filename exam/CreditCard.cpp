@@ -1,6 +1,4 @@
-//
-// Created by wen on 2020/5/4.
-//
+
 
 #include <iostream>
 #include "CreditCard.h"
